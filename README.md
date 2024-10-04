@@ -1,4 +1,4 @@
-********** FOR ENVIRONMENT VARIABLES READ "ENV-VARIABLES.txt" FILE **********
+**FOR ENVIRONMENT VARIABLES READ "ENV-VARIABLES.txt" FILE**
 
 
 EMPLOYEES MANAGEMENT SYSTEM
@@ -86,7 +86,7 @@ Role-Based Access: Implement more granular permissions for admins.
 This Employee Tracking Flask App provides a basic framework for tracking user activities with an admin review system. By using Flask, SQLite, and AWS S3, it ensures data persistence and ease of management for both users and administrators.
 
 
-File Structutre
+**File Structutre**
 
 activity_tracker/
 ├── routes/
@@ -112,4 +112,3 @@ activity_tracker/
 │   └── s3_utils.py               # Syncs database with AWS S3
 └── local_database.db             # SQLite local database
 
-********** FOR ENVIRONMENT VARIABLES READ "ENV-VARIABLES.txt" FILE **********
