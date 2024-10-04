@@ -109,3 +109,4 @@ activity_tracker/
 │   └── s3_utils.py               # Syncs database with AWS S3
 └── local_database.db             # SQLite local database
 
+********** FOR ENVIRONMENT VARIABLES READ "ENV-VARIABLES.txt" FILE **********
