@@ -1,3 +1,6 @@
+********** FOR ENVIRONMENT VARIABLES READ "ENV-VARIABLES.txt" FILE **********
+
+
 EMPLOYEES MANAGEMENT SYSTEM
 # activity_tracker
 
